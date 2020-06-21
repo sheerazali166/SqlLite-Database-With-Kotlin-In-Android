@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SqlLite Example In Kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_id_here">Enter id here</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="enter_email_here">Enter email here</string>
+</resources>
